@@ -1,0 +1,21 @@
+.welcome-admin{
+    color:blue;
+    position:absolute;
+    top:-30px;
+    right:0;
+    box-sizing: border-box;
+    display: inline-block;
+
+}
+.welcome-admin:hover{
+    cursor:pointer;
+}
+body{
+    position: relative;
+}
+.btn-signout{
+    display:inline-block;
+    text-decoration: none;
+    position: absolute;
+    left:30%;
+}

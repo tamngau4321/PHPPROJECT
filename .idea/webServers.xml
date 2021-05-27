@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f68cba54-04d3-42d5-9a5f-06292809d5d6" name="khacnguyen" url="http://localhost:1234/DemoPDO">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\DemoPDO" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
